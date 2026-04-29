@@ -3,7 +3,7 @@
 A machine learning web application that predicts used car prices based on vehicle specifications.
 
 ## 🔧 Tech Stack
-- **ML Model**: Random Forest Regressor (82% R² accuracy)
+- **ML Model**: Random Forest Regressor (92% R² accuracy)
 - **Backend**: Python, Flask, Scikit-learn, Pandas
 - **Frontend**: React.js + Vite
 - **Data**: 8,000+ used car listings (Indian market)
