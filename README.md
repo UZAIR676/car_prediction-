@@ -33,3 +33,7 @@ npm install
 npm run dev
 
 Open http://localhost:5173
+
+⚠️ Note: This model is trained on Indian used car market data (8,000+ listings).
+Prices are predicted in INR and converted to USD for display.
+Model accuracy may vary for non-Indian car markets.
